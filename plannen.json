@@ -1,1 +1,42 @@
-[{"bestand":"stephex-2026.html","titel":"Stephex 2026","datum":"2026-08-18T12:50:20.076Z"},{"bestand":"alcatraz-only.html","titel":"Alcatraz Only","datum":"2026-08-18T12:32:34.963Z"},{"bestand":"alcatraz-kkc.html","titel":"Alcatraz KKC","datum":"2026-08-18T12:32:28.281Z"},{"bestand":"alcatraz-voorlevering.html","titel":"Alcatraz Voorlevering","datum":"2026-08-18T12:32:20.892Z"},{"bestand":"wecandance.html","titel":"Wecandance","datum":"2026-08-18T12:32:10.877Z"},{"bestand":"rijvers-2026.html","titel":"Rijvers 2026","datum":"2026-08-18T12:31:52.513Z"},{"bestand":"kamping-kitch.html","titel":"Kamping Kitch","datum":"2026-08-18T09:18:38.080Z"}]
+[
+  {
+    "bestand": "alcatraz-kkc-gen-bat-tnk.html",
+    "titel": "Alcatraz + KKC GEN/BAT/TNK",
+    "datum": "2026-08-20T13:06:42.117Z"
+  },
+  {
+    "bestand": "stephex-2026.html",
+    "titel": "Stephex 2026",
+    "datum": "2026-08-18T12:50:20.076Z"
+  },
+  {
+    "bestand": "alcatraz-only.html",
+    "titel": "Alcatraz Only",
+    "datum": "2026-08-18T12:32:34.963Z"
+  },
+  {
+    "bestand": "alcatraz-kkc.html",
+    "titel": "Alcatraz KKC",
+    "datum": "2026-08-18T12:32:28.281Z"
+  },
+  {
+    "bestand": "alcatraz-voorlevering.html",
+    "titel": "Alcatraz Voorlevering",
+    "datum": "2026-08-18T12:32:20.892Z"
+  },
+  {
+    "bestand": "wecandance.html",
+    "titel": "Wecandance",
+    "datum": "2026-08-18T12:32:10.877Z"
+  },
+  {
+    "bestand": "rijvers-2026.html",
+    "titel": "Rijvers 2026",
+    "datum": "2026-08-18T12:31:52.513Z"
+  },
+  {
+    "bestand": "kamping-kitch.html",
+    "titel": "Kamping Kitch",
+    "datum": "2026-08-18T09:18:38.080Z"
+  }
+]
